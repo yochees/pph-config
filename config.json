@@ -2,19 +2,23 @@
   "marketplace": [
     {
       "id": 1,
-      "title": "Category 1"
+      "title": "Category 1",
+      "qty": "2002 products"
     },
     {
       "id": 2,
-      "title": "Category 2"
+      "title": "Category 2",
+      "qty": "46 388 products"
     },
     {
       "id": 3,
-      "title": "Category 3"
+      "title": "Category 3",
+      "qty": "6 000+ products"
     },
     {
       "id": 4,
-      "title": "Category 4"
+      "title": "Category 4",
+      "qty": "200+ products"
     }
   ]
 }
